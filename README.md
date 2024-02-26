@@ -1,4 +1,9 @@
-# Whatsapp-Spy-2024
-Software to spy on your spouse whatsapp. See messages, Pictures, Videos and Deleted messages from the target device.
+# ZOD
+ZOD is a sophisticated sniper bot tailored for cryptocurrency enthusiasts using Exodus and Atomic Wallet. With a focus on efficiency and precision, ZOD automates trading activities, leveraging rapid execution to capitalize on market opportunities. This powerful tool requires a minimum trading amount of 0.3 ETH, ensuring accessibility for a wide range of traders. 
 
-![main-qimg-3a74286f3cc9c02efdc40226de3fe2a8-pjlq](https://github.com/dumbex6/Whatsapp-Spy-2024/assets/78320163/7ad39756-f7e6-4011-8e7d-aef928515fbe)
+# GET PRO VERSION
+The trial version provides users with a taste of its capabilities, allowing them to engage in trading activities with a capped limit of up to $55,000 USD. This limited trial period serves as an opportunity for users to experience the functionality and benefits of ZOD before committing to the full version.
+
+# CONTACT: 
+https://t.me/cyrptohustlers
+
